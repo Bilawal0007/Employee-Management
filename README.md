@@ -113,11 +113,7 @@ Thymeleaf.
 
 
 
-# Author
 
-[Md. Abdullah Ibna Harun](https://www.linkedin.com/in/mdabdullahibnaharun)
-
-[Mahade Hasan Forhad](https://www.linkedin.com/in/mahade-hasan-forhad-7bbb77192/)
 
 
 
